@@ -1,0 +1,23 @@
+#formAdd {
+	width:100%;
+}
+
+#formAdd input{
+	width:100%;
+	display:inline-block;
+	margin:10px 0px;
+}
+
+#table {
+	width:100%;
+	border:0px solid #ccc;
+}
+
+#table td, #table th {
+	padding: 5px;
+	border:1px solid #ccc;
+}
+
+#table tr.hide{
+	display:none;
+}
